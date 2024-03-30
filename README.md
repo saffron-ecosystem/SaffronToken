@@ -12,14 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 
 
-npm init --yes
-npm install --save dotenv
-npm install --save-dev hardhat
-npm install --save-dev @nomicfoundation/hardhat-ethers
-npm install --save-dev @openzeppelin/hardhat-upgrades
-npm install --save @nomicfoundation/hardhat-toolbox
-npm install --save @openzeppelin/contracts-upgradeable
-
-npx hardhat init
-
 ```
